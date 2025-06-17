@@ -2,7 +2,7 @@
  
 Selamat datang di dokumentasi internal LEX DEV! 🎉
 
-Dokumen ini dirancang sebagai panduan utama bagi semua anggota tim pengembang LEX DEV, dari pemula hingga senior. Panduan ini akan membantu memahami peran masing-masing, standar kerja tim, serta keterampilan teknis dan non-teknis yang dibutuhkan untuk berkontribusi secara efektif.
+Dokumen ini dirancang sebagai panduan utama bagi semua anggota tim pengembang di PROJECT_LINK, dari pemula hingga senior. Panduan ini akan membantu memahami mulai dari fundamental, peran masing-masing, standar kerja tim, serta keterampilan teknis dan non-teknis yang dibutuhkan untuk berkontribusi secara efektif.
 
 ## 💡 Tentang LEX DEV
 LEX DEV adalah tim pengembang teknologi yang berkomitmen pada:
@@ -20,7 +20,7 @@ Panduan ini disusun untuk:
 - Memberikan latihan praktis sebagai bekal kerja
 - Menumbuhkan budaya belajar dan komunikasi terbuka
 
-## 📌 Hal-Hal Penting dalam Tim LEX DEV
+## 📌 Hal-Hal Penting dalam Team Project_colab
 - Semua anggota wajib memahami skill umum (lihat [Skill Umum](docs/common-skills.md))
 - Setiap role punya tanggung jawab yang saling melengkapi
 - Praktik komunikasi yang baik, dokumentasi, dan agile sangat dijunjung tinggi
