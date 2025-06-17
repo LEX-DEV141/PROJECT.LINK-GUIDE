@@ -31,15 +31,15 @@ Panduan ini disusun untuk:
 > Klik pada peranmu atau baca semuanya jika kamu ingin memahami ekosistem tim secara utuh!
 
 - [🧩 Skill Umum (Wajib Semua Role)](docs/common-skills.md)
-- [📋 Project Manager (PM)](docs/pm.md)
-- [🧭 Product Manager (PDM)](docs/pdm.md)
-- [⚙️ Tech Lead (TL)](docs/tl.md)
-- [🎨 Frontend Developer](docs/frontend.md)
-- [🛠 Backend Developer](docs/backend.md)
-- [🔍 Quality Assurance (QA)](docs/qa.md)
-- [🧠 UI/UX Designer](docs/uiux.md)
-- [🧪 DevOps Engineer](docs/devops.md)
-- [📔 Glosarium Umum](docs/glosarium-umum.md)
+- [📋 Project Manager (PM)](basic-guide/pm.md)
+- [🧭 Product Manager (PDM)](basic-guide/pdm.md)
+- [⚙️ Tech Lead (TL)](basic-guide/tl.md)
+- [🎨 Frontend Developer](basic-guide/frontend.md)
+- [🛠 Backend Developer](basic-guide/backend.md)
+- [🔍 Quality Assurance (QA)](basic-guide/qa.md)
+- [🧠 UI/UX Designer](basic-guide/uiux.md)
+- [🧪 DevOps Engineer](basic-guide/devops.md)
+- [📔 Glosarium Umum](basic-guide/glosarium-umum.md)
 
 ---
 
