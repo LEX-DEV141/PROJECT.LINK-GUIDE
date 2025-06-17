@@ -1,6 +1,6 @@
-# 📘 Panduan Internal Tim - LEX DEV
+# 📘 Panduan Internal Tim - Project Link
  
-Selamat datang di dokumentasi internal LEX DEV! 🎉
+Selamat datang di dokumentasi internal Project Link! 🎉
 
 Dokumen ini dirancang sebagai panduan utama bagi semua anggota tim pengembang di PROJECT_LINK, dari pemula hingga senior. Panduan ini akan membantu memahami mulai dari fundamental, peran masing-masing, standar kerja tim, serta keterampilan teknis dan non-teknis yang dibutuhkan untuk berkontribusi secara efektif.
 
@@ -41,6 +41,11 @@ Panduan ini disusun untuk:
 - [🧪 DevOps Engineer](basic-guide/devops.md)
 - [📔 Glosarium Umum](basic-guide/glosarium-umum.md)
 
----
+## 📚 Daftar Panduan Fundamental
 
+> Klik pada peranmu atau baca semuanya jika kamu ingin memahami ekosistem tim secara utuh!
+-
+-
+-
+---
 Untuk kontribusi terhadap doku mentasi ini, silakan buat pull request atau diskusikan melalui GitHub Issues.
