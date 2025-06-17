@@ -4,15 +4,6 @@ Selamat datang di dokumentasi internal Project Link! 🎉
 
 Dokumen ini dirancang sebagai panduan utama bagi semua anggota tim pengembang di PROJECT_LINK, dari pemula hingga senior. Panduan ini akan membantu memahami mulai dari fundamental, peran masing-masing, standar kerja tim, serta keterampilan teknis dan non-teknis yang dibutuhkan untuk berkontribusi secara efektif.
 
-## 💡 Tentang LEX DEV
-LEX DEV adalah tim pengembang teknologi yang berkomitmen pada:
-- 🔍 Transparansi proses kerja
-- 🧠 Pertumbuhan skill tiap anggota
-- 🤝 Kolaborasi lintas role
-- 🚀 Eksekusi proyek yang efisien dan berkualitas
-
-Kami membangun produk dan sistem dengan pendekatan yang terstruktur, agile, dan berfokus pada impact.
-
 ## 🎯 Tujuan Panduan Ini
 Panduan ini disusun untuk:
 - Menstandarkan ekspektasi dan tanggung jawab tiap role
